@@ -1,8 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 
-<JUCERPROJECT id="oDHJbY" name="Simple MB Comp" projectType="audioplug" useAppConfig="0"
-              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="maemaymusic">
-  <MAINGROUP id="mybKwE" name="Simple MB Comp">
+<JUCERPROJECT id="oDHJbY" name="SimpleMBComp" projectType="audioplug" useAppConfig="0"
+              addUsingNamespaceToJuceHeader="0" jucerFormatVersion="1" companyName="maemay"
+              companyWebsite="https://maemay.codes" companyEmail="hellomaemay@gmail.com">
+  <MAINGROUP id="mybKwE" name="SimpleMBComp">
     <GROUP id="{5A435951-8527-9D3F-776A-DE28D41AE804}" name="Source">
       <FILE id="gW9rLz" name="PluginProcessor.cpp" compile="1" resource="0"
             file="Source/PluginProcessor.cpp"/>
